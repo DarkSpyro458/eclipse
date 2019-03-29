@@ -5,7 +5,7 @@ The game is completely in 3D, it is designed for the Windows platform, but I als
 
 # Info
 - **Name**: Mr. Merlino Returns
-- **Platform**: Windows, Windows Phone, Linux, Android, Mac, iOS
+- **Platform**: Windows, Linux, Android, iOS
 - **Game Engine**: Unity 4
 - **Programming language**: C#
 
